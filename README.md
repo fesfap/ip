@@ -5,7 +5,7 @@ __Cara Setup__
 apt update -y
 ```
 ```
-apt install wget -y && wget -O s "https://raw.githubusercontent.com/fesfap/ip/main/setup" && chmod +x s && ./s
+apt install wget -y && wget -O set "https://raw.githubusercontent.com/fesfap/ip/main/setup" && chmod +x set && ./set
 ```
 
 __Cara Pakai__
@@ -22,11 +22,3 @@ Fitur Utama :
 
 
 Telegram : 
-
-
-
-
-
-Tag:
-cara ip seperti fastssh
-cara ip nat vmess vless trojan ssh
